@@ -2,11 +2,15 @@
 
 ## What
 
-The [MNIST dataset](https://www.kaggle.com/c/digit-recognizer/data) is a large dataset of handwritten digits that is commonly used for various tasks in training and testing in the field of machine learning. One of these tasks is to identify these digits (0 through 9). We use a CNN for this. A Convolutional Neural Network (CNN) is a Deep Learning algorithm which takes an input image, assigns importance (learnable weights and biases) to various aspects/objects in it and be able to differentiate one from the other. 
+The MNIST dataset is a large dataset of handwritten digits that is commonly used for various tasks in training and testing in the field of machine learning. One of these tasks is to identify these digits (0 through 9). We use a CNN for this. A Convolutional Neural Network (CNN) is a Deep Learning algorithm which takes an input image, assigns importance (learnable weights and biases) to various aspects/objects in it and be able to differentiate one from the other. 
 
 ## Why
 
 I have used CNNs for this task because the pre-processing required is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, CNNs have the ability to learn these filters.
+
+## Note
+
+You can download the dataset from [here](https://www.kaggle.com/c/digit-recognizer/data). After downloading it, extract it and place the *train.csv* and *test.csv* files in the same folder as the [notebook](Notebook.ipynb) in order to run it. 
 
 ## How
 
