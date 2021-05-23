@@ -2,7 +2,7 @@
 
 ## What
 
-The MNIST dataset is a large dataset of handwritten digits that is commonly used for various tasks in training and testing in the field of machine learning. One of these tasks is to identify these digits (0 through 9). We use a CNN for this. A Convolutional Neural Network (CNN) is a Deep Learning algorithm which takes an input image, assigns importance (learnable weights and biases) to various aspects/objects in it and be able to differentiate one from the other. 
+The [MNIST dataset](https://www.kaggle.com/c/digit-recognizer/data) is a large dataset of handwritten digits that is commonly used for various tasks in training and testing in the field of machine learning. One of these tasks is to identify these digits (0 through 9). We use a CNN for this. A Convolutional Neural Network (CNN) is a Deep Learning algorithm which takes an input image, assigns importance (learnable weights and biases) to various aspects/objects in it and be able to differentiate one from the other. 
 
 ## Why
 
